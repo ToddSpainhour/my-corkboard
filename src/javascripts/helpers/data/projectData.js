@@ -5,6 +5,18 @@ const projects = [
     category: 'Painting',
     avalibility: true,
   },
+  {
+    title: 'project 2',
+    image: 'insert image url here',
+    category: 'Video',
+    avalibility: true,
+  },
+  {
+    title: 'project 3',
+    image: 'insert image url here',
+    category: 'Music',
+    avalibility: true,
+  },
 
 ];
 
